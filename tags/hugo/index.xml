@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on labs.leap.io</title>
+    <link>http://labs.leap.io/tags/hugo/</link>
+    <description>Recent content in Hugo on labs.leap.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 May 2017 19:37:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://labs.leap.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo, Blackburn, and github pages</title>
+      <link>http://labs.leap.io/post/intro-hugo/</link>
+      <pubDate>Wed, 24 May 2017 19:37:00 -0700</pubDate>
+      
+      <guid>http://labs.leap.io/post/intro-hugo/</guid>
+      <description>&lt;p&gt;While reading up on &lt;a href=&#34;http://www.golang.org&#34;&gt;golang&lt;/a&gt; a while ago, I discovered the &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static website engine and decided to set up a space to write about some projects I&amp;rsquo;m working on&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

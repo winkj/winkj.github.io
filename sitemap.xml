@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://labs.leap.io/post/link-git-at-msdn/</loc>
+    <lastmod>2017-05-24T19:54:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://labs.leap.io/post/link-bf-startup-offices/</loc>
+    <lastmod>2017-05-24T19:50:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://labs.leap.io/post/intro-hugo/</loc>
+    <lastmod>2017-05-24T19:37:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://labs.leap.io/about/</loc>
+    <lastmod>2017-05-24T10:50:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://labs.leap.io/tags/git/</loc>
+    <lastmod>2017-05-24T19:54:49-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://labs.leap.io/tags/hugo/</loc>
+    <lastmod>2017-05-24T19:37:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://labs.leap.io/topics/links/</loc>
+    <lastmod>2017-05-24T19:54:49-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://labs.leap.io/topics/meta/</loc>
+    <lastmod>2017-05-24T19:37:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://labs.leap.io/tags/microsoft/</loc>
+    <lastmod>2017-05-24T19:54:49-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://labs.leap.io/post/</loc>
+    <lastmod>2017-05-24T19:54:49-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://labs.leap.io/tags/sanfrancisco/</loc>
+    <lastmod>2017-05-24T19:50:39-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://labs.leap.io/tags/startups/</loc>
+    <lastmod>2017-05-24T19:50:39-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://labs.leap.io/tags/</loc>
+    <lastmod>2017-05-24T19:54:49-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://labs.leap.io/topics/</loc>
+    <lastmod>2017-05-24T19:54:49-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://labs.leap.io/</loc>
+    <lastmod>2017-05-24T19:54:49-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

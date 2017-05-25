@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on labs.leap.io</title>
+    <link>http://labs.leap.io/tags/</link>
+    <description>Recent content in Tags on labs.leap.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 May 2017 19:54:49 -0700</lastBuildDate>
+    
+	<atom:link href="http://labs.leap.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git</title>
+      <link>http://labs.leap.io/tags/git/</link>
+      <pubDate>Wed, 24 May 2017 19:54:49 -0700</pubDate>
+      
+      <guid>http://labs.leap.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://labs.leap.io/tags/hugo/</link>
+      <pubDate>Wed, 24 May 2017 19:37:00 -0700</pubDate>
+      
+      <guid>http://labs.leap.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft</title>
+      <link>http://labs.leap.io/tags/microsoft/</link>
+      <pubDate>Wed, 24 May 2017 19:54:49 -0700</pubDate>
+      
+      <guid>http://labs.leap.io/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sanfrancisco</title>
+      <link>http://labs.leap.io/tags/sanfrancisco/</link>
+      <pubDate>Wed, 24 May 2017 19:50:39 -0700</pubDate>
+      
+      <guid>http://labs.leap.io/tags/sanfrancisco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startups</title>
+      <link>http://labs.leap.io/tags/startups/</link>
+      <pubDate>Wed, 24 May 2017 19:50:39 -0700</pubDate>
+      
+      <guid>http://labs.leap.io/tags/startups/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

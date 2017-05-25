@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>labs.leap.io</title>
+    <link>http://labs.leap.io/</link>
+    <description>Recent content on labs.leap.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 May 2017 19:54:49 -0700</lastBuildDate>
+    
+	<atom:link href="http://labs.leap.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Link: git at msdn</title>
+      <link>http://labs.leap.io/post/link-git-at-msdn/</link>
+      <pubDate>Wed, 24 May 2017 19:54:49 -0700</pubDate>
+      
+      <guid>http://labs.leap.io/post/link-git-at-msdn/</guid>
+      <description>&lt;p&gt;Fascinating read: &lt;a href=&#34;https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/&#34;&gt;&amp;ldquo;The largest Git repo on the planet
+&amp;ldquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Quote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;[&amp;hellip;] the Windows code base is approximately 3.5M files and, when checked in to a Git repo, results in a repo of about 300GB.  Further, the Windows team is about 4,000 engineers and the engineering system produces 1,760 daily “lab builds” across 440 branches in addition to thousands of pull request validation builds&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Source: &lt;a href=&#34;https://news.ycombinator.com/&#34;&gt;Hackernews&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Link: Startup offices @ Buzzfeed</title>
+      <link>http://labs.leap.io/post/link-bf-startup-offices/</link>
+      <pubDate>Wed, 24 May 2017 19:50:39 -0700</pubDate>
+      
+      <guid>http://labs.leap.io/post/link-bf-startup-offices/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s on Buzzfeed, but that&amp;rsquo;s a nice list with great photos: &lt;a href=&#34;https://www.buzzfeed.com/peggy/gorgeous-start-up-offices-you-wish-you-worked-in&#34;&gt;&amp;ldquo;22 Gorgeous Startup Offices You Wish You Worked In&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo, Blackburn, and github pages</title>
+      <link>http://labs.leap.io/post/intro-hugo/</link>
+      <pubDate>Wed, 24 May 2017 19:37:00 -0700</pubDate>
+      
+      <guid>http://labs.leap.io/post/intro-hugo/</guid>
+      <description>&lt;p&gt;While reading up on &lt;a href=&#34;http://www.golang.org&#34;&gt;golang&lt;/a&gt; a while ago, I discovered the &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static website engine and decided to set up a space to write about some projects I&amp;rsquo;m working on&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About labs.leap.io</title>
+      <link>http://labs.leap.io/about/</link>
+      <pubDate>Wed, 24 May 2017 10:50:43 -0700</pubDate>
+      
+      <guid>http://labs.leap.io/about/</guid>
+      <description>The content on this website is a journal of thing I&amp;rsquo;m working on, found interesting, or think might be beneficial for others. If you&amp;rsquo;d like to learn more or discuss any of the topics, you can reach me at firstname at leap.io.
+Johannes Winkelmann - Bio Born in Switzerland, I&amp;rsquo;ve been in San Francisco, California for a few years now. In my spare time, I enjoy taking pictures, playing ice hockey, and spending time with my wife and our awesome cat Charlie.</description>
+    </item>
+    
+  </channel>
+</rss>
