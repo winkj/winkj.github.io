@@ -6,10 +6,23 @@
     <description>Recent content on labs.leap.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 May 2017 19:54:49 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2017 17:24:16 -0700</lastBuildDate>
     
 	<atom:link href="http://labs.leap.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Generating watch dials - Part 1</title>
+      <link>http://labs.leap.io/post/generating-watchdials-1/</link>
+      <pubDate>Mon, 29 May 2017 17:24:16 -0700</pubDate>
+      
+      <guid>http://labs.leap.io/post/generating-watchdials-1/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been thinking about building my own watch, after finding that many parts are readily available online, and not crazy expensive. It&amp;rsquo;s partly driven by curiosity, and partly by the fact that I can&amp;rsquo;t find an affordable watch that&amp;rsquo;s looking just the way I want it.&lt;/p&gt;
+
+&lt;p&gt;As a first step, I wanted to play with some ideas regarding the dial. I found some services offering laser cutting and PCM etching which I believe I could use, on of them being &lt;a href=&#34;http://www.ponoko.com&#34;&gt;Ponoko&lt;/a&gt;. They are accepting &lt;a href=&#34;https://www.w3.org/Graphics/SVG/&#34;&gt;SVGs&lt;/a&gt; from Adobe Illustrator and &lt;a href=&#34;http://www.inkscape.org&#34;&gt;Inkscape&lt;/a&gt;. After playing with Inkscape for a bit, I decided to write a simple generator in C++ to programmatically generate some of the elements.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Link: git at msdn</title>

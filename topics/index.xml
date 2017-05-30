@@ -29,5 +29,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Programming</title>
+      <link>http://labs.leap.io/topics/programming/</link>
+      <pubDate>Mon, 29 May 2017 17:24:16 -0700</pubDate>
+      
+      <guid>http://labs.leap.io/topics/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watch Building</title>
+      <link>http://labs.leap.io/topics/watch-building/</link>
+      <pubDate>Mon, 29 May 2017 17:24:16 -0700</pubDate>
+      
+      <guid>http://labs.leap.io/topics/watch-building/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

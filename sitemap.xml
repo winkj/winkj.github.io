@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://labs.leap.io/post/generating-watchdials-1/</loc>
+    <lastmod>2017-05-29T17:24:16-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://labs.leap.io/post/link-git-at-msdn/</loc>
     <lastmod>2017-05-24T19:54:49-07:00</lastmod>
   </url>
@@ -19,6 +24,12 @@
   <url>
     <loc>http://labs.leap.io/about/</loc>
     <lastmod>2017-05-24T10:50:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://labs.leap.io/tags/cpp/</loc>
+    <lastmod>2017-05-29T17:24:16-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -53,7 +64,13 @@
   
   <url>
     <loc>http://labs.leap.io/post/</loc>
-    <lastmod>2017-05-24T19:54:49-07:00</lastmod>
+    <lastmod>2017-05-29T17:24:16-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://labs.leap.io/topics/programming/</loc>
+    <lastmod>2017-05-29T17:24:16-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -70,8 +87,14 @@
   </url>
   
   <url>
+    <loc>http://labs.leap.io/tags/svg/</loc>
+    <lastmod>2017-05-29T17:24:16-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://labs.leap.io/tags/</loc>
-    <lastmod>2017-05-24T19:54:49-07:00</lastmod>
+    <lastmod>2017-05-29T17:24:16-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,8 +105,20 @@
   </url>
   
   <url>
+    <loc>http://labs.leap.io/tags/watch-building/</loc>
+    <lastmod>2017-05-29T17:24:16-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://labs.leap.io/topics/watch-building/</loc>
+    <lastmod>2017-05-29T17:24:16-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://labs.leap.io/</loc>
-    <lastmod>2017-05-24T19:54:49-07:00</lastmod>
+    <lastmod>2017-05-29T17:24:16-07:00</lastmod>
     <priority>0</priority>
   </url>
   

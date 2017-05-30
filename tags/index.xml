@@ -6,10 +6,19 @@
     <description>Recent content in Tags on labs.leap.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 May 2017 19:54:49 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2017 17:24:16 -0700</lastBuildDate>
     
 	<atom:link href="http://labs.leap.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cpp</title>
+      <link>http://labs.leap.io/tags/cpp/</link>
+      <pubDate>Mon, 29 May 2017 17:24:16 -0700</pubDate>
+      
+      <guid>http://labs.leap.io/tags/cpp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Git</title>
@@ -53,6 +62,24 @@
       <pubDate>Wed, 24 May 2017 19:50:39 -0700</pubDate>
       
       <guid>http://labs.leap.io/tags/startups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Svg</title>
+      <link>http://labs.leap.io/tags/svg/</link>
+      <pubDate>Mon, 29 May 2017 17:24:16 -0700</pubDate>
+      
+      <guid>http://labs.leap.io/tags/svg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watch Building</title>
+      <link>http://labs.leap.io/tags/watch-building/</link>
+      <pubDate>Mon, 29 May 2017 17:24:16 -0700</pubDate>
+      
+      <guid>http://labs.leap.io/tags/watch-building/</guid>
       <description></description>
     </item>
     
